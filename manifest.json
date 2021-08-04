@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+   
+    "name": "Auto Rickroll",
+    "version": "1.0",
+    "description": "Upon clicking any link you have a 1 percent chance of getting rickrolled",
+   
+    "content_scripts": [{
+      "js": ["content.js"],
+      "matches": ["<all_urls>"]
+    }]
+   
+  }
