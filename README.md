@@ -1,4 +1,4 @@
-# Auto-Rickroll
+# Rick Rollette
 
 A simple Chromium browser extension to every so often Rickroll yourself. Every link you click has a 1% chance of being a Rickroll.
 
